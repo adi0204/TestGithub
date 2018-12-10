@@ -1,2 +1,2 @@
 # TestGithub
-Github 1
+Test Github is a repository for showing how it works.	
